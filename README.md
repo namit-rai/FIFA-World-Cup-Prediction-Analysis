@@ -57,6 +57,7 @@ https://github.com/namit-rai/FIFA-World-Cup-Prediction-Analysis/blob/main/matche
 
 
 # Data Visualization using Power BI
+https://github.com/namit-rai/FIFA-World-Cup-Prediction-Analysis/blob/main/Fifa%20visualization.pbix
 
 
 
