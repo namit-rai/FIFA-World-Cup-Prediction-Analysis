@@ -28,7 +28,7 @@ and come up with your findings.
 # Datasets Used
 https://github.com/namit-rai/FIFA-World-Cup-Prediction-Analysis/blob/main/WorldCupMatches.csv
 https://github.com/namit-rai/FIFA-World-Cup-Prediction-Analysis/blob/main/WorldCupPlayers.csv
-
+https://github.com/namit-rai/FIFA-World-Cup-Prediction-Analysis/blob/main/WorldCups.csv
 
 
 # Dataset Sourced From: Unified Mentor
@@ -36,13 +36,19 @@ https://github.com/namit-rai/FIFA-World-Cup-Prediction-Analysis/blob/main/WorldC
 # Time Range
 Data was collected from World Cups held between 1930 and 2014.
 
+
 # Dataset Details
 WorldCupMatches: 21 columns, 853 rows, WorldCups: 10 columns, 21 rows
 Only the WorldCupMatches and WorldCups datasets were used for further analysis and insights.
 
+
 # Data Preprocessing
 Typecasting was performed on several columns to ensure proper data types. 
 No duplicate or missing values were found in either dataset.
+
+
+# Dataset after Processing and Cleaning
+
 
 # Tools Used
 Python and Power BI were utilized for data cleaning, analysis, and visualization.
