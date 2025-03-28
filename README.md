@@ -27,6 +27,7 @@ and come up with your findings.
 
 # Datasets Used
 https://github.com/namit-rai/FIFA-World-Cup-Prediction-Analysis/blob/main/WorldCupMatches.csv
+https://github.com/namit-rai/FIFA-World-Cup-Prediction-Analysis/blob/main/WorldCupPlayers.csv
 
 
 
