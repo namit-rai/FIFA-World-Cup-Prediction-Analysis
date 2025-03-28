@@ -31,7 +31,12 @@ https://github.com/namit-rai/FIFA-World-Cup-Prediction-Analysis/blob/main/WorldC
 https://github.com/namit-rai/FIFA-World-Cup-Prediction-Analysis/blob/main/WorldCups.csv
 
 
+# Tools Used
+Python and Power BI were utilized for data cleaning, analysis, and visualization.
+
+
 # Dataset Sourced From: Unified Mentor
+
 
 # Time Range
 Data was collected from World Cups held between 1930 and 2014.
@@ -48,10 +53,13 @@ No duplicate or missing values were found in either dataset.
 
 
 # Dataset after Processing and Cleaning
+https://github.com/namit-rai/FIFA-World-Cup-Prediction-Analysis/blob/main/matches%20after%20cleaning.csv
 
 
-# Tools Used
-Python and Power BI were utilized for data cleaning, analysis, and visualization.
+# Data Visualization using Power BI
+
+
+
 
 
 
